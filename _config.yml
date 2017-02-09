@@ -1,0 +1,27 @@
+
+title: My Resume
+url: 'http://kimminkiki.github.io'
+#baseurl: '/online-cv' #change it according to your repository name
+baseurl: ''
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Minki Kim
+tagline: Android Application Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: kimminkiki@gmail.com
+phone: +82-10-9496-3213
+website: kimminkiki.blogspot.kr/ #do not add http://
+linkedin: minki-kim-15532397b
+github: kimminkiki
+
+twitter: '@webjeda'
+#Update all the sections by editing the files inside _includes folder.
