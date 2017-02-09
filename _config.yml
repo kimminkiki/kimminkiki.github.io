@@ -2,7 +2,6 @@
 title: KIM MIN KI
 url: 'http://kimminkiki.github.io'
 #baseurl: '/online-cv' #change it according to your repository name
-baseurl: ''
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
