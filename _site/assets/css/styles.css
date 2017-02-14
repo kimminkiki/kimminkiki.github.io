@@ -143,14 +143,20 @@ p {
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
 }
-.sidebar-wrapper .interests-list {
+.sidebar-wrapper .skills-list {
   margin-bottom: 0;
 }
-.sidebar-wrapper .interests-list li {
+.sidebar-wrapper .skills-list li {
   margin-bottom: 10px;
 }
-.sidebar-wrapper .interests-list li:last-child {
+.sidebar-wrapper .skills-list li:last-child {
   margin-bottom: 0;
+}
+.sidebar-wrapper .skills-container .meta {
+  color: rgba(255, 255, 0, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
 }
 .main-wrapper {
   background: #fff;
